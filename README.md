@@ -1,16 +1,57 @@
-# 💫 About Me:
-Hi , i Am Somu Sharma <br>Interested in new Tech that is Usefull for humans<br>currently pursuing Btech from AKGEC Ghaziabad and learning Web Development<br>i Am looking to collaborate on usefull projects
+<h1 align="center">
+  <img src="https://slackmojis.com/emojis/13387-gokurun/download" width="35"> 
+  <b>Hello Hello! I'm Somu Sharma </b>
+</h1>
 
+<div align="center">
+  <img alt="pikachu" src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" />
+</div> 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/04s_sharma/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somu-sharma-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somusharmass.@gmail.com) 
+<h2>
+  <img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="20"> 
+  <b>About Me</b>
+</h2>
+<p>Passionate about building technology that genuinely improves human lives. Exploring modern web development and emerging tools to create meaningful, impact-driven solutions. Open to collaborating on useful and innovative projects.</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+<h2>
+  <img src="https://slackmojis.com/emojis/37554-charmander/download" width="30"> 
+  <b>Socials</b>
+</h2>
 
+[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Somu9450) 
+[![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/04s_sharma/)
 
+<h2>
+  <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30" /> 
+  <b>Tech Stack</b>
+</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Somu9450&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) 
+![](https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) 
+![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white) 
+![](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white) 
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) 
+![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
+![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>
+  <img src="https://slackmojis.com/emojis/78855-pepe_narutoq/download" width="30" /> 
+  <b>Github Stats</b>
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somu9450&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somu9450&theme=dracula&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somu9450&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<h2>
+  <img src="https://slackmojis.com/emojis/50155-vegeta-smile/download" width="30"> 
+  <b>Top Repositories</b>
+</h2> 
+
+![](https://github-contributor-stats.vercel.app/api?username=Somu9450&limit=5&theme=dracula&combine_all_yearly_contributions=true)
